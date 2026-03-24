@@ -93,9 +93,20 @@ Todo en un único notebook de Python (`notebooks/01_analisis_exploratorio.ipynb`
 
 ---
 
+## Cadencia de actualización
+
+El proyecto se actualiza **mensualmente**: cada mes se exportan los datos de Meta Business Suite, se ejecuta el pipeline de limpieza y se genera un nuevo notebook de análisis con el período correspondiente.
+
+```
+notebooks/
+├── 01_analisis_exploratorio_feb24_mar23_2026.ipynb   ✅ completado
+├── 02_analisis_exploratorio_abr2026.ipynb            🔜 próximo
+└── ...
+```
+
 ## Próximas actualizaciones
 
-- [ ] Semanas 5–8 (abril 2026)
+- [ ] Análisis abril 2026 — confirmar si los patrones de timing y temática se mantienen
 - [ ] Análisis de correlación frecuencia de publicación ↔ crecimiento de seguidores
 - [ ] Segmentación audiencia seguidores vs no seguidores
 - [ ] Modelo predictivo simple (tema + franja + duración → vistas esperadas)
