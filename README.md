@@ -25,6 +25,31 @@ Este repositorio documenta ese proceso de forma transparente y se actualiza cada
 
 ---
 
+## Visualizaciones
+
+### Crecimiento diario
+![Crecimiento diario](visuals/01_crecimiento_diario.png)
+
+### Resumen semanal
+![Resumen semanal](visuals/02_resumen_semanal.png)
+
+### Top 10 Reels por visualizaciones
+![Top 10 Reels](visuals/03_top10_reels.png)
+
+### Vistas vs. Engagement Rate
+![Vistas vs Engagement](visuals/04_vistas_vs_engagement.png)
+
+### Rendimiento por temática
+![Rendimiento por temática](visuals/05_rendimiento_por_tema.png)
+
+### ¿Cuándo publicar?
+![Cuándo publicar](visuals/06_cuando_publicar.png)
+
+### Funnel de conversión promedio
+![Funnel de conversión](visuals/07_funnel_conversion.png)
+
+---
+
 ## Estructura del repositorio
 
 ```
