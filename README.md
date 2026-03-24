@@ -85,6 +85,27 @@ instagram-analytics-aroaxinping/
 
 ---
 
+## Cómo reproducir el análisis
+
+```bash
+# 1. Clona el repositorio
+git clone https://github.com/aroaxinping/instagram-analytics-aroaxinping.git
+cd instagram-analytics-aroaxinping
+
+# 2. Instala las dependencias
+pip install -r requirements.txt
+
+# 3. Ejecuta el ETL para regenerar los datos procesados
+python3 src/etl.py
+
+# 4. Abre el notebook
+jupyter notebook notebooks/
+```
+
+> Los CSVs de `data/raw/` ya están incluidos en el repositorio, así que puedes ir directamente al paso 3 o abrir el notebook sin ejecutar el ETL.
+
+---
+
 ## Metodología
 
 ### Extracción
