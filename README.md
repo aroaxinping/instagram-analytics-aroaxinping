@@ -86,8 +86,8 @@ Todo en un único notebook de Python (`notebooks/01_analisis_exploratorio.ipynb`
 
 ## Hallazgos clave (semanas 1–4)
 
-1. **El humor personal viraliza pero no convierte** — alto alcance, bajo engagement rate y pocos seguidores ganados por reel.
-2. **El contenido técnico (SQL, Python) tiene el mayor save rate** — la audiencia lo guarda para consultar luego. Señal de valor real.
+1. **El humor personal viraliza pero no conecta** — genera alto alcance y muchas vistas, pero bajo engagement rate y poca conversión a seguidores. Llega a mucha gente que no se queda.
+2. **La combinación técnico + humor es el formato con mejor conversión** — los Reels que mezclan contenido de programación/informática con un tono divertido tienen el mayor ratio de seguidores ganados por alcance y más conexión real con el espectador. Es el punto diferencial de la cuenta.
 3. **Los reels de 30–60s rinden mejor** que los muy cortos (<15s) en términos de retención y seguidores ganados.
 4. **Lunes y martes por la tarde-noche** parecen ser las mejores franjas de publicación (a confirmar con más semanas).
 
