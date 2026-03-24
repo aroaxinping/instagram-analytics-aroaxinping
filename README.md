@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="visuals/banner.png" alt="Instagram Analytics — @aroaxinping" width="100%"/>
+</p>
+
 # 📊 Instagram Analytics — @aroaxinping
 
 > **Proyecto en curso.** Análisis de mis propias métricas de Instagram para tomar decisiones de contenido basadas en datos.
