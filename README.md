@@ -171,6 +171,20 @@ notebooks/
 ![matplotlib](https://img.shields.io/badge/matplotlib-3.x-11557c)
 ![Jupyter](https://img.shields.io/badge/Jupyter-notebook-orange?logo=jupyter)
 ![Meta Business Suite](https://img.shields.io/badge/Data%20source-Meta%20Business%20Suite-1877F2?logo=meta)
+![Plotly](https://img.shields.io/badge/Dashboard-Plotly-3F4F75?logo=plotly)
+
+---
+
+## Dashboard interactivo
+
+`dashboard/instagram_dashboard.html` — 6 graficos interactivos: crecimiento diario, vistas acumuladas, top reels, engagement rate, rendimiento por tematica, ER vs save rate.
+
+Para verlo: descarga el archivo y abrelo en el navegador, o clona el repo y ejecuta `open dashboard/instagram_dashboard.html`.
+
+Regenerar con datos nuevos:
+```bash
+python3 dashboard/build_dashboard.py
+```
 
 ---
 
