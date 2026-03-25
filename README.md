@@ -174,4 +174,14 @@ notebooks/
 
 ---
 
+---
+
+## Análisis cross-platform
+
+¿Cómo se compara Instagram con TikTok? Mismo período, mismo creador, dos algoritmos.
+
+→ **[social-media-analytics-aroaxinping](https://github.com/aroaxinping/social-media-analytics-aroaxinping)** — TikTok vs Instagram: KPIs comparativos, engagement, save rate, viralidad y scorecard ejecutivo.
+
+---
+
 *Actualizado: marzo 2026 | [@aroaxinping](https://www.instagram.com/aroaxinping)*
