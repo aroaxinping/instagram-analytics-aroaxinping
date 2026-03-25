@@ -184,4 +184,12 @@ notebooks/
 
 ---
 
+## SQL
+
+La carpeta `sql/` contiene queries SQL sobre los mismos datos de este proyecto: rankings, window functions, acumulados diarios y análisis por temática.
+
+Para queries avanzadas con CTEs y análisis cross-platform con TikTok, ver: **[sql-social-media-analytics-aroaxinping](https://github.com/aroaxinping/sql-social-media-analytics-aroaxinping)**
+
+---
+
 *Actualizado: marzo 2026 | [@aroaxinping](https://www.instagram.com/aroaxinping)*
